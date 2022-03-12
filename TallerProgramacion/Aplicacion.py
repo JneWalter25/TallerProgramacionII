@@ -1,6 +1,6 @@
 #Taller de programacion
 #Crear un paquete en el cual usemos una aplicacion de numpy y subirlo a Pypi.org
-#Jorge Sanchez 2204659 - Carlos Cala 2204549
+#Jorge Sanchez 2204659 - Carlos Cala 2204549 - Julian Romero 2204652
 import numpy as np
 
 
